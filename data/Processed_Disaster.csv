@@ -1,0 +1,413 @@
+Disaster Type,Country,Year,Month,Total Deaths
+Storm,China,2019,8,72.0
+Flood,Brazil,2019,3,12.0
+Flood,Brazil,2019,4,10.0
+Flood,Brazil,2019,7,12.0
+Flood,Spain,2019,1,4.0
+Flood,Brazil,2019,1,4.0
+Flood,Spain,2019,7,1.0
+Storm,Spain,2019,4,0.0
+Flood,Brazil,2019,6,7.0
+Wildfire,Brazil,2019,1,0.0
+Storm,China,2019,7,6.0
+Earthquake,China,2019,2,2.0
+Earthquake,China,2019,6,13.0
+Earthquake,China,2019,9,1.0
+Earthquake,China,2019,9,1.0
+Flood,China,2019,8,13.0
+Flood,China,2019,7,0.0
+Landslide,China,2019,7,51.0
+Storm,China,2019,9,0.0
+Storm,China,2019,10,3.0
+Wildfire,China,2019,4,30.0
+Landslide,China,2019,8,38.0
+Flood,China,2019,4,11.0
+Flood,China,2019,6,300.0
+Flood,China,2019,7,17.0
+Storm,Germany,2019,1,1.0
+Extreme temperature,Germany,2019,6,4.0
+Extreme temperature,Germany,2019,7,0.0
+Storm,India,2019,6,50.0
+Flood,Spain,2019,10,5.0
+Flood,India,2019,7,1900.0
+Flood,India,2019,10,12.0
+Earthquake,Japan,2019,6,0.0
+Flood,Japan,2019,8,1.0
+Flood,Japan,2019,10,10.0
+Flood,India,2019,6,52.0
+Flood,Spain,2019,9,7.0
+Storm,India,2019,4,50.0
+Storm,Japan,2019,10,99.0
+Extreme temperature,Spain,2019,6,2.0
+Storm,France,2019,8,0.0
+Extreme temperature,France,2019,6,567.0
+Extreme temperature,France,2019,7,868.0
+Flood,France,2019,10,3.0
+Storm,India,2019,6,10.0
+Storm,India,2019,5,50.0
+Extreme temperature,India,2019,6,90.0
+Extreme temperature,India,2019,6,22.0
+Flood,India,2019,8,32.0
+Extreme temperature,Italy,2019,6,3.0
+Flood,Italy,2019,5,0.0
+Storm,Japan,2019,9,0.0
+Storm,Japan,2019,9,0.0
+Storm,Japan,2019,10,3.0
+Extreme temperature,Japan,2019,7,162.0
+Extreme temperature,Japan,2019,7,11.0
+Flood,Japan,2019,6,2.0
+Flood,United States,2019,2,1.0
+Storm,Italy,2019,11,0.0
+Storm,Italy,2019,11,0.0
+Storm,France,2019,10,1.0
+Storm,Italy,2019,11,2.0
+Storm,United States,2019,1,10.0
+Flood,United States,2019,2,1.0
+Flood,Brazil,2019,11,2.0
+Flood,Brazil,2019,11,0.0
+Flood,China,2019,10,14.0
+Flood,France,2019,11,5.0
+Storm,United States,2019,4,8.0
+Storm,United States,2019,5,3.0
+Storm,United States,2019,12,18.0
+Flood,United States,2019,3,5.0
+Storm,United States,2019,1,22.0
+Storm,United States,2019,11,10.0
+Storm,United States,2019,4,5.0
+Storm,United States,2019,9,5.0
+Storm,France,2019,11,5.0
+Storm,France,2019,12,2.0
+Storm,United States,2019,1,13.0
+Storm,United States,2019,3,28.0
+Storm,United States,2019,10,4.0
+Earthquake,United States,2019,7,0.0
+Storm,United States,2019,7,1.0
+Storm,United States,2019,9,9.0
+Wildfire,United States,2019,10,3.0
+Wildfire,United States,2019,10,0.0
+Flood,United States,2019,6,3.0
+Storm,Spain,2019,10,1.0
+Storm,Spain,2019,12,7.0
+Earthquake,France,2019,11,0.0
+Storm,France,2019,12,0.0
+Storm,India,2019,11,12.0
+Flood,India,2019,11,27.0
+Storm,Brazil,2020,6,12.0
+Storm,United States,2020,5,2.0
+Flood,Brazil,2020,1,61.0
+Flood,Italy,2020,12,2.0
+Storm,United States,2020,11,11.0
+Storm,United States,2020,11,12.0
+Flood,Brazil,2020,2,5.0
+Flood,Brazil,2020,2,4.0
+Flood,Brazil,2020,3,79.0
+Flood,Brazil,2020,12,21.0
+Flood,India,2020,5,1.0
+Flood,India,2020,6,1925.0
+Flood,Italy,2020,11,3.0
+Storm,Italy,2020,10,7.0
+Flood,Japan,2020,6,82.0
+Flood,United States,2020,5,0.0
+Storm,United States,2020,4,0.0
+Storm,United States,2020,5,2.0
+Drought,United States,2020,1,45.0
+Landslide,China,2020,6,4.0
+Storm,India,2020,11,14.0
+Storm,United States,2020,4,38.0
+Storm,United States,2020,4,3.0
+Storm,United States,2020,1,10.0
+Storm,United States,2020,7,0.0
+Storm,United States,2020,10,4.0
+Storm,United States,2020,9,8.0
+Storm,United States,2020,10,6.0
+Storm,India,2020,1,11.0
+Flood,China,2020,11,13.0
+Storm,United States,2020,8,33.0
+Storm,China,2020,10,6.0
+Drought,Brazil,2020,1,0.0
+Storm,China,2020,5,20.0
+Earthquake,China,2020,5,4.0
+Storm,China,2020,8,0.0
+Storm,China,2020,8,0.0
+Wildfire,China,2020,3,19.0
+Flood,China,2020,6,22.0
+Flood,China,2020,6,3.0
+Flood,China,2020,5,178.0
+Flood,China,2020,8,92.0
+Storm,Germany,2020,2,0.0
+Storm,Spain,2020,1,17.0
+Flood,France,2020,6,0.0
+Flood,France,2020,9,2.0
+Storm,France,2020,10,26.0
+Storm,France,2020,1,0.0
+Storm,France,2020,2,0.0
+Extreme temperature,France,2020,7,1924.0
+Flood,France,2020,5,0.0
+Landslide,India,2020,5,21.0
+Landslide,India,2020,8,70.0
+Storm,India,2020,5,90.0
+Storm,India,2020,6,6.0
+Flood,India,2020,5,29.0
+Flood,India,2020,6,0.0
+Landslide,Italy,2020,8,3.0
+Storm,Italy,2020,2,1.0
+Flood,Italy,2020,11,0.0
+Storm,Japan,2020,9,2.0
+Storm,Japan,2020,9,0.0
+Storm,United States,2020,8,4.0
+Storm,United States,2020,3,25.0
+Flood,United States,2020,2,0.0
+Storm,United States,2020,6,1.0
+Storm,United States,2020,7,16.0
+Wildfire,United States,2020,8,32.0
+Drought,ROW,2019,1,77.0
+Earthquake,ROW,2019,1,2.0
+Extreme temperature,ROW,2019,1,8.0
+Flood,ROW,2019,1,92.0
+Landslide,ROW,2019,1,99.0
+Storm,ROW,2019,1,31.0
+Wildfire,ROW,2019,1,0.0
+Drought,ROW,2019,2,0.0
+Earthquake,ROW,2019,2,0.0
+Flood,ROW,2019,2,205.0
+Landslide,ROW,2019,2,23.0
+Storm,ROW,2019,2,0.0
+Wildfire,ROW,2019,2,0.0
+Drought,ROW,2019,3,0.0
+Earthquake,ROW,2019,3,9.0
+Flood,ROW,2019,3,557.0
+Landslide,ROW,2019,3,5.0
+Storm,ROW,2019,3,1277.0
+Wildfire,ROW,2019,3,0.0
+Earthquake,ROW,2019,4,25.0
+Flood,ROW,2019,4,161.0
+Landslide,ROW,2019,4,63.0
+Storm,ROW,2019,4,92.0
+Wildfire,ROW,2019,4,1.0
+Drought,ROW,2019,5,0.0
+Earthquake,ROW,2019,5,3.0
+Flood,ROW,2019,5,114.0
+Storm,ROW,2019,5,39.0
+Wildfire,ROW,2019,5,50.0
+Earthquake,ROW,2019,6,0.0
+Extreme temperature,ROW,2019,6,133.0
+Flood,ROW,2019,6,104.0
+Landslide,ROW,2019,6,63.0
+Storm,ROW,2019,6,4.0
+Volcanic activity,ROW,2019,6,0.0
+Drought,ROW,2019,7,0.0
+Earthquake,ROW,2019,7,18.0
+Extreme temperature,ROW,2019,7,801.0
+Flood,ROW,2019,7,438.0
+Landslide,ROW,2019,7,31.0
+Storm,ROW,2019,7,11.0
+Volcanic activity,ROW,2019,7,0.0
+Wildfire,ROW,2019,7,0.0
+Drought,ROW,2019,8,0.0
+Earthquake,ROW,2019,8,6.0
+Extreme temperature,ROW,2019,8,188.0
+Flood,ROW,2019,8,238.0
+Landslide,ROW,2019,8,20.0
+Storm,ROW,2019,8,11.0
+Earthquake,ROW,2019,9,71.0
+Flood,ROW,2019,9,162.0
+Landslide,ROW,2019,9,52.0
+Storm,ROW,2019,9,370.0
+Wildfire,ROW,2019,9,32.0
+Earthquake,ROW,2019,10,40.0
+Flood,ROW,2019,10,243.0
+Landslide,ROW,2019,10,77.0
+Storm,ROW,2019,10,18.0
+Earthquake,ROW,2019,11,57.0
+Extreme temperature,ROW,2019,11,50.0
+Flood,ROW,2019,11,134.0
+Landslide,ROW,2019,11,97.0
+Storm,ROW,2019,11,67.0
+Drought,ROW,2019,12,8.0
+Earthquake,ROW,2019,12,14.0
+Flood,ROW,2019,12,237.0
+Landslide,ROW,2019,12,108.0
+Storm,ROW,2019,12,81.0
+Volcanic activity,ROW,2019,12,21.0
+Wildfire,ROW,2019,12,0.0
+Drought,ROW,2020,1,0.0
+Earthquake,ROW,2020,1,45.0
+Extreme temperature,ROW,2020,1,3.0
+Flood,ROW,2020,1,110.0
+Storm,ROW,2020,1,124.0
+Volcanic activity,ROW,2020,1,0.0
+Earthquake,ROW,2020,2,9.0
+Flood,ROW,2020,2,96.0
+Landslide,ROW,2020,2,78.0
+Storm,ROW,2020,2,8.0
+Earthquake,ROW,2020,3,1.0
+Flood,ROW,2020,3,538.0
+Storm,ROW,2020,3,11.0
+Flood,ROW,2020,4,200.0
+Landslide,ROW,2020,4,10.0
+Storm,ROW,2020,4,38.0
+Earthquake,ROW,2020,5,0.0
+Flood,ROW,2020,5,117.0
+Landslide,ROW,2020,5,22.0
+Storm,ROW,2020,5,73.0
+Drought,ROW,2020,6,0.0
+Earthquake,ROW,2020,6,11.0
+Extreme temperature,ROW,2020,6,2556.0
+Flood,ROW,2020,6,1037.0
+Landslide,ROW,2020,6,21.0
+Storm,ROW,2020,6,0.0
+Flood,ROW,2020,7,156.0
+Landslide,ROW,2020,7,172.0
+Storm,ROW,2020,7,9.0
+Earthquake,ROW,2020,8,1.0
+Extreme temperature,ROW,2020,8,1860.0
+Flood,ROW,2020,8,724.0
+Storm,ROW,2020,8,75.0
+Drought,ROW,2020,9,0.0
+Flood,ROW,2020,9,53.0
+Landslide,ROW,2020,9,11.0
+Storm,ROW,2020,9,10.0
+Volcanic activity,ROW,2020,9,0.0
+Wildfire,ROW,2020,9,14.0
+Earthquake,ROW,2020,10,117.0
+Flood,ROW,2020,10,67.0
+Landslide,ROW,2020,10,58.0
+Storm,ROW,2020,10,403.0
+Wildfire,ROW,2020,10,0.0
+Flood,ROW,2020,11,66.0
+Landslide,ROW,2020,11,18.0
+Storm,ROW,2020,11,576.0
+Volcanic activity,ROW,2020,11,0.0
+Earthquake,ROW,2020,12,7.0
+Flood,ROW,2020,12,31.0
+Landslide,ROW,2020,12,44.0
+Storm,ROW,2020,12,15.0
+Volcanic activity,ROW,2020,12,0.0
+Drought,WORLD,2019,1,77.0
+Earthquake,WORLD,2019,1,2.0
+Extreme temperature,WORLD,2019,1,8.0
+Flood,WORLD,2019,1,100.0
+Landslide,WORLD,2019,1,99.0
+Storm,WORLD,2019,1,77.0
+Wildfire,WORLD,2019,1,0.0
+Drought,WORLD,2019,2,0.0
+Earthquake,WORLD,2019,2,2.0
+Flood,WORLD,2019,2,207.0
+Landslide,WORLD,2019,2,23.0
+Storm,WORLD,2019,2,0.0
+Wildfire,WORLD,2019,2,0.0
+Drought,WORLD,2019,3,0.0
+Earthquake,WORLD,2019,3,9.0
+Flood,WORLD,2019,3,574.0
+Landslide,WORLD,2019,3,5.0
+Storm,WORLD,2019,3,1305.0
+Wildfire,WORLD,2019,3,0.0
+Earthquake,WORLD,2019,4,25.0
+Flood,WORLD,2019,4,182.0
+Landslide,WORLD,2019,4,63.0
+Storm,WORLD,2019,4,155.0
+Wildfire,WORLD,2019,4,31.0
+Drought,WORLD,2019,5,0.0
+Earthquake,WORLD,2019,5,3.0
+Flood,WORLD,2019,5,114.0
+Storm,WORLD,2019,5,92.0
+Wildfire,WORLD,2019,5,50.0
+Earthquake,WORLD,2019,6,13.0
+Extreme temperature,WORLD,2019,6,821.0
+Flood,WORLD,2019,6,468.0
+Landslide,WORLD,2019,6,63.0
+Storm,WORLD,2019,6,64.0
+Volcanic activity,WORLD,2019,6,0.0
+Drought,WORLD,2019,7,0.0
+Earthquake,WORLD,2019,7,18.0
+Extreme temperature,WORLD,2019,7,1842.0
+Flood,WORLD,2019,7,2368.0
+Landslide,WORLD,2019,7,82.0
+Storm,WORLD,2019,7,18.0
+Volcanic activity,WORLD,2019,7,0.0
+Wildfire,WORLD,2019,7,0.0
+Drought,WORLD,2019,8,0.0
+Earthquake,WORLD,2019,8,6.0
+Extreme temperature,WORLD,2019,8,188.0
+Flood,WORLD,2019,8,284.0
+Landslide,WORLD,2019,8,58.0
+Storm,WORLD,2019,8,83.0
+Earthquake,WORLD,2019,9,73.0
+Flood,WORLD,2019,9,169.0
+Landslide,WORLD,2019,9,52.0
+Storm,WORLD,2019,9,384.0
+Wildfire,WORLD,2019,9,32.0
+Earthquake,WORLD,2019,10,40.0
+Flood,WORLD,2019,10,287.0
+Landslide,WORLD,2019,10,77.0
+Storm,WORLD,2019,10,129.0
+Wildfire,WORLD,2019,10,3.0
+Earthquake,WORLD,2019,11,57.0
+Extreme temperature,WORLD,2019,11,50.0
+Flood,WORLD,2019,11,168.0
+Landslide,WORLD,2019,11,97.0
+Storm,WORLD,2019,11,96.0
+Drought,WORLD,2019,12,8.0
+Earthquake,WORLD,2019,12,14.0
+Flood,WORLD,2019,12,237.0
+Landslide,WORLD,2019,12,108.0
+Storm,WORLD,2019,12,108.0
+Volcanic activity,WORLD,2019,12,21.0
+Wildfire,WORLD,2019,12,0.0
+Drought,WORLD,2020,1,45.0
+Earthquake,WORLD,2020,1,45.0
+Extreme temperature,WORLD,2020,1,3.0
+Flood,WORLD,2020,1,171.0
+Storm,WORLD,2020,1,162.0
+Volcanic activity,WORLD,2020,1,0.0
+Earthquake,WORLD,2020,2,9.0
+Flood,WORLD,2020,2,105.0
+Landslide,WORLD,2020,2,78.0
+Storm,WORLD,2020,2,9.0
+Earthquake,WORLD,2020,3,1.0
+Flood,WORLD,2020,3,617.0
+Storm,WORLD,2020,3,36.0
+Wildfire,WORLD,2020,3,19.0
+Flood,WORLD,2020,4,200.0
+Landslide,WORLD,2020,4,10.0
+Storm,WORLD,2020,4,79.0
+Earthquake,WORLD,2020,5,4.0
+Flood,WORLD,2020,5,325.0
+Landslide,WORLD,2020,5,43.0
+Storm,WORLD,2020,5,187.0
+Drought,WORLD,2020,6,0.0
+Earthquake,WORLD,2020,6,11.0
+Extreme temperature,WORLD,2020,6,2556.0
+Flood,WORLD,2020,6,3069.0
+Landslide,WORLD,2020,6,25.0
+Storm,WORLD,2020,6,19.0
+Extreme temperature,WORLD,2020,7,1924.0
+Flood,WORLD,2020,7,156.0
+Landslide,WORLD,2020,7,172.0
+Storm,WORLD,2020,7,25.0
+Earthquake,WORLD,2020,8,1.0
+Extreme temperature,WORLD,2020,8,1860.0
+Flood,WORLD,2020,8,816.0
+Landslide,WORLD,2020,8,73.0
+Storm,WORLD,2020,8,112.0
+Wildfire,WORLD,2020,8,32.0
+Drought,WORLD,2020,9,0.0
+Flood,WORLD,2020,9,55.0
+Landslide,WORLD,2020,9,11.0
+Storm,WORLD,2020,9,20.0
+Volcanic activity,WORLD,2020,9,0.0
+Wildfire,WORLD,2020,9,14.0
+Earthquake,WORLD,2020,10,117.0
+Flood,WORLD,2020,10,67.0
+Landslide,WORLD,2020,10,58.0
+Storm,WORLD,2020,10,452.0
+Wildfire,WORLD,2020,10,0.0
+Flood,WORLD,2020,11,82.0
+Landslide,WORLD,2020,11,18.0
+Storm,WORLD,2020,11,613.0
+Volcanic activity,WORLD,2020,11,0.0
+Earthquake,WORLD,2020,12,7.0
+Flood,WORLD,2020,12,54.0
+Landslide,WORLD,2020,12,44.0
+Storm,WORLD,2020,12,15.0
+Volcanic activity,WORLD,2020,12,0.0
